@@ -16,5 +16,10 @@
   如果html css js 都没有基本机构的搭建完成， 游戏脚本会有问题 
 
 - 函数式编程
-  写代码？ 完成开发需求
-  
+  写代码？ 完成开发需求 复杂 <= 独立的多个子需求来完成 <= 单独封装成一个函数
+  init();
+  drawSnake();
+  addEvent();
+  refreshSnake();
+  winOrLoose();
+  showResult();
